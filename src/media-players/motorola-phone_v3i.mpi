@@ -1,0 +1,15 @@
+[Device]
+DeviceMatch=usb:22b8:4810;
+Vendor=Motorola
+AccessProtocol=ipod;storage
+Model=Motorola Phone (V3i)
+USBModel=*Motorola Phone (V3i)*
+
+[Media]
+InputFormats=audio/x-wav
+OutputFormats=audio/mpeg;audio/aac
+
+[storage]
+RequiresEject=true
+AudioFolders=mobile/audio/
+

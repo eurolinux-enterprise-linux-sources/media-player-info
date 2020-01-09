@@ -1,0 +1,12 @@
+[Device]
+AccessProtocol=storage
+DeviceMatch=usb:066f:8038;
+Vendor=Jetflash MP3 Player, AKA NAPA LCD-HD, AKA Medion, AKA Tevion  and other
+
+[Media]
+InputFormats=audio/x-wav
+OutputFormats=audio/mpeg;audio/x-ms-wma
+
+[storage]
+DriveType=sd_mmc
+

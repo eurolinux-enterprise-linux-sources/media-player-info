@@ -1,0 +1,9 @@
+[Device]
+Product=Lyra TH1100A
+Vendor=RCA
+AccessProtocol=storage
+DeviceMatch=usb:069b:0778;
+
+[Media]
+OutputFormats=audio/mpeg;audio/x-wav
+
