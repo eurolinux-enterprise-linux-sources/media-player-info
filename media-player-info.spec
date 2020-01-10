@@ -1,6 +1,6 @@
 Name:           media-player-info
 Version:        17
-Release:        3%{?dist}
+Release:        4%{?dist}
 Summary:        Data files describing media player capabilities
 
 Group:          System Environment/Base
@@ -45,6 +45,9 @@ make install DESTDIR=$RPM_BUILD_ROOT
 
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 17-4
+- Mass rebuild 2013-12-27
+
 * Thu Feb 14 2013 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 17-3
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_19_Mass_Rebuild
 
