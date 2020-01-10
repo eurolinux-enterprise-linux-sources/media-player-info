@@ -1,3 +1,4 @@
-# ELS - Enterprise Linux/EuroLinux Sources - media-player-info 
+# ELS - Enterprise Linux/EuroLinux Sources - media-player-info
+ 
 ## Usage:
-  Checkout branch or tag.
+  Checkout branch or tag. Use `make sources` to recreate  SOURCE0 archive.
